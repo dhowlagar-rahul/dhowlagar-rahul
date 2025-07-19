@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhowlagar-rahul
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning AIML
 - 📫 How to reach me - kshatriyarahul3735@gmail.com
 - 😄 Pronouns: he/him
